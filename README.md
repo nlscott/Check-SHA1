@@ -3,13 +3,18 @@
 
 ![001](support/001.png)
 
+**Usage:** 
 
-**Usage:**
-Type in the `SHA1` hash from the website you downloaded your file or package from. Then drag the download to the `File to compare` field and click on `Compare SHA1's`. Results will be either '**Hashes are a match**', or "**Hashes are not a match"**
+Type in the `SHA1` hash from the website you downloaded your file or package from. Then drag the download to the `File to compare` field and click on `Compare SHA1's`. 
+
+Results will be "**Hashes Match**" or "**Hashes Do Not Match**"
 
 
-![001](support/002.png)
+![Hashes Match](support/002.png)
 
 
-SHA1 for 'SHA1 Check.app.zip':
-> d59335abfdfdd7995fd4bcb64a2d446a5fbf1683
+![Hashes Do Not Match](support/003.png)
+
+
+SHA1 for `SHA1 Check.app.zip`:
+> c7234c171d86ddb6d3f302f146be3ea412a92255
